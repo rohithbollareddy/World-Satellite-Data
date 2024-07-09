@@ -4,3 +4,4 @@ As the number of operational satellites in orbit grows, so does the demand for a
 
 Project Report: https://docs.google.com/document/d/1zaSJ1mZEjKM7k8PEK6TbIF0Cr-9QqbSvt4y-Y2t0YNc/edit?usp=sharing
 Pytthone notebook: https://colab.research.google.com/drive/1W547CKxcgiwoUokEzxIK2ShkROORFxXb#scrollTo=1sp8bi9ZYRA1
+View the interactive budget funding over the years here: https://public.flourish.studio/visualisation/13547205/
